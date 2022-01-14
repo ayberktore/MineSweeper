@@ -1,0 +1,8 @@
+package MineSweeper;
+public class Main {
+    public static void main(String [] args)
+    {
+        MineSweeper m1 = new MineSweeper(4,4);
+        m1.run();
+    }
+    }
